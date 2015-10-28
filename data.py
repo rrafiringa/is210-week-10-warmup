@@ -4,6 +4,10 @@
 
 
 BANDS = {
+    'Buckingham Nicks': {
+        'Lindsey Buckingham': ['guitar', 'vocals'],
+        'Stevie Nicks': ['vocals', 'tambourine']
+    },
     'Spinal Tap': {
         'David St. Hubbins': ['vocals', 'guitar'],
         'Nigel Tufnel': ['guitar', 'vocals', 'bass', 'violin', 'harmonica',
